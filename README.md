@@ -4,15 +4,24 @@
   
    Код організований у вигляді набору функцій:
 * Генерація векторів:
+  
       * get_vector: створення щільного вектора;
       * get_sparse_vector: створення розрідженого вектора;
+  
  * Опеїрації над векторами:
+ * 
        * add, scalar_multiplication, linear_combination;
+   
  * Математичні операції:
+ * 
        * dot_product, norm, distance, cos_between_vectors;
+   
  * Перевірка властивостей:
+   
        * is_orthogonal;
+   
  * Лінійні рівняння:
+ * 
        * solves_linear_systems.
 
   
