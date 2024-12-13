@@ -1,4 +1,4 @@
-# linear_algebra_intro_practice      ПРАКТИКА З ЛІНІЙНОЇ АЛГЕБРИ:
+# linear_algebra_intro_practice          ПРАКТИКА З ЛІНІЙНОЇ АЛГЕБРИ:
 
 # 1. Вектори;
   
